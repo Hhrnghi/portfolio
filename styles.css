@@ -33,6 +33,13 @@ section {
     border: 1px solid #ccc;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .project {
     margin-bottom: 20px;
 }
